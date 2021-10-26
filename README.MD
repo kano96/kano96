@@ -28,10 +28,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="kano96's GitHub Stats" src="https://github-readme-stats.kano96.vercel.app/api?username=kano96&show_icons=true&hide_border=true" />
-</details>
 [twitter]: https://twitter.com/kevinSDQ
 [instagram]: https://www.instagram.com/kevin96akd/?hl=es
 [linkedin]: https://www.linkedin.com/in/kevin-torres-iglesias-520311167/

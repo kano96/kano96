@@ -1,6 +1,6 @@
 ### Hi there, I'm Kevin Torres 👋
 
-## I'm a Husband, Father and Front-end Developer
+## I'm a Husband, Father and Full-Stack Developer
 
 - 🌱 I’m currently learning Back-end with Node.js
 - 👷‍♂️ I’m looking to collaborate with an amazing company or startup

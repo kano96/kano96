@@ -2,11 +2,6 @@
 
 ## I'm a Husband, Father and Full-Stack Developer
 
-- 🌱 I’m currently learning Back-end with Node.js
-- 👷‍♂️ I’m looking to collaborate with an amazing company or startup
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch and play soccer
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]

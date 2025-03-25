@@ -1,6 +1,6 @@
 ### Hi there, I'm Kevin Torres 👋
 
-## I'm a Husband, Father and Full-Stack Developer
+## Full-Stack Developer
 
 ### Connect with me:
 
